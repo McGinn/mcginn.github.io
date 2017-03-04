@@ -1,0 +1,7 @@
+[submodule "pneumatic"]
+  path = pneumatic
+  url = git://github.com/iKevinY/pneumatic.pgit
+  branch = iKevinY.github.io
+[sumodule "plugins"]
+  path = plugins
+  url = git://github.com/getpelican/pelican-plugins.git

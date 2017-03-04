@@ -1,7 +1,7 @@
-# iKevinY.github.io [![1]][2] <img align="right" width=76 src="content/images/icons/apple-touch-icon-152x152.png?raw=true"/>
+# mcginn.github.io [![1]][2] <img align="right" width=76 src="content/images/icons/apple-touch-icon-152x152.png?raw=true"/>
 
 This repository contains both the static site files and the source files used
-to generate **[kevinyap.ca]**. The website is generated with [Pelican] using a
+to generate **[blog.alexandermcginn.com]**. The website is generated with [Pelican] using a
 custom theme: [Pneumatic]. In order to host with [GitHub Pages], the repository
 contains two distinct branches; the [`src`] branch contains the source files
 that Pelican uses to generate the static files which are automatically

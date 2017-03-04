@@ -2,7 +2,7 @@
 
 This repository contains both the static site files and the source files used
 to generate **[blog.alexandermcginn.com]**. The website is generated with [Pelican] using a
-custom theme: [Pneumatic]. The styling and implementation are based entirely on [kevinyap.ca].[In order to host with [GitHub Pages], the repository
+custom theme: [Pneumatic]. The styling and implementation are based entirely on [kevinyap.ca]. In order to host with [GitHub Pages], the repository
 contains two distinct branches; the [`src`] branch contains the source files
 that Pelican uses to generate the static files which are automatically
 [pushed][generate.sh] to the [`master`] branch by Travis CI (see

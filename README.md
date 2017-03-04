@@ -2,7 +2,7 @@
 
 This repository contains both the static site files and the source files used
 to generate **[blog.alexandermcginn.com]**. The website is generated with [Pelican] using a
-custom theme: [Pneumatic]. In order to host with [GitHub Pages], the repository
+custom theme: [Pneumatic]. The styling and implementation are based entirely on [kevinyap.ca][In order to host with [GitHub Pages], the repository
 contains two distinct branches; the [`src`] branch contains the source files
 that Pelican uses to generate the static files which are automatically
 [pushed][generate.sh] to the [`master`] branch by Travis CI (see
@@ -14,7 +14,7 @@ Commons Attribution License].
 [1]: http://img.shields.io/travis/iKevinY/iKevinY.github.io/src.svg?style=flat "Build Status"
 [2]: https://travis-ci.org/iKevinY/iKevinY.github.io
 
-[kevinyap.ca]: http://kevinyap.ca
+[blog.alexandermcginn.com]: http://blog.alexandermcginn.com
 [Pelican]: http://getpelican.com
 [Pneumatic]: https://github.com/iKevinY/pneumatic
 [`src`]: https://github.com/iKevinY/iKevinY.github.io/tree/src
@@ -24,3 +24,4 @@ Commons Attribution License].
 [travis-article]: http://kevinyap.ca/2014/06/deploying-pelican-sites-using-travis-ci/
 [MIT License]: LICENSE
 [Creative Commons Attribution License]: http://creativecommons.org/licenses/by/4.0/
+[kevinyap.ca]: https://github.com/iKevinY.github.io

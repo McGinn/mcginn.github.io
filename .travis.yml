@@ -1,0 +1,12 @@
+branches:
+  only: src
+language: python
+python: '2.7'
+sudo: false
+env:
+  global:
+  - secure: 880d4c7daf7bc3538edf1faa73a341c27c8c1c70
+cache: pip
+before_script: gem install sass
+script: pelican -s publishconf.py
+after_success: ./generate.sh deploy

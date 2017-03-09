@@ -82,7 +82,7 @@ STATIC_PATHS = ['images', 'uploads', 'extra']
 IGNORE_FILES = ['.DS_Store', 'pneumatic.scss', 'pygments.css']
 
 extras = ['favicon.ico', 'robots.txt']
-EXTRA_PATH_METADATA = {'/extra/%s' % file: {'path': file for file in extras}}
+EXTRA_PATH_METADATA = {'extra/%s' % file: {'path': file for file in extras}}
 
 DEFAULT_LANG = u'en'
 

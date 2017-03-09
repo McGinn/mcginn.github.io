@@ -1,0 +1,6 @@
+#Output files
+*.log
+*.out
+*.aux
+*.dvi
+.texpadtmp/

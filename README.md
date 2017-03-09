@@ -11,17 +11,16 @@ that Pelican uses to generate the static files which are automatically
 Code is licensed under the [MIT License], and articles under a [Creative
 Commons Attribution License].
 
-[1]: http://img.shields.io/travis/iKevinY/iKevinY.github.io/src.svg?style=flat "Build Status"
-[2]: https://travis-ci.org/iKevinY/iKevinY.github.io
+[1]: https://api.travis-ci.org/McGinn/mcginn.github.io.svg?branch=src "Build Status"
+[2]: https://travis-ci.org/McGinn/mcginn.github.io
 
 [blog.alexandermcginn.com]: http://blog.alexandermcginn.com
 [Pelican]: http://getpelican.com
 [Pneumatic]: https://github.com/iKevinY/pneumatic
-[`src`]: https://github.com/iKevinY/iKevinY.github.io/tree/src
-[`master`]: https://github.com/iKevinY/iKevinY.github.io/tree/master
+[`src`]: https://github.com/McGinn/mcginn.github.io/tree/src
+[`master`]: https://github.com/McGinn/mcginn.github.io/tree/master
 [GitHub Pages]: http://pages.github.com
 [generate.sh]: generate.sh#L66
 [travis-article]: http://kevinyap.ca/2014/06/deploying-pelican-sites-using-travis-ci/
 [MIT License]: LICENSE
 [Creative Commons Attribution License]: http://creativecommons.org/licenses/by/4.0/
-[kevinyap.ca]: https://github.com/iKevinY.github.io

@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 # Theme-specific settings
 SITENAME = u'Alexander McGinn'
-DOMAIN = 'blog.alexandermcginn.com'
+DOMAIN = 'mcginn.github.io'
 BIO_TEXT = ''
 FOOTER_TEXT = 'Powered by <a href="http://getpelican.com">Pelican</a>, <a href="http://github.com/iKevinY/pneumatic">Pneumatic</a>, and <a href="http://pages.github.com">GitHub&nbsp;Pages</a>.'
 
@@ -32,7 +32,7 @@ THEME_COLOR = '#FF8000'
 
 # Pelican settings
 RELATIVE_URLS = True
-SITEURL = 'blog.alexandermcginn.com'
+SITEURL = 'mcginn.github.io'
 TIMEZONE = 'Canada/Eastern'
 DAFAULT_DATE = 'fs'
 DEFAULT_DATE_FORMAT = '%B %d, %Y'

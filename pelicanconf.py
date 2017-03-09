@@ -3,12 +3,12 @@
 from __future__ import unicode_literals
 
 # Theme-specific settings
-SITENAME = u'Alexander McGinn'
+SITENAME = 'Alexander McGinn'
 DOMAIN = 'mcginn.github.io'
-BIO_TEXT = ''
+BIO_TEXT = 'This is a bio'
 FOOTER_TEXT = 'Powered by <a href="http://getpelican.com">Pelican</a>, <a href="http://github.com/iKevinY/pneumatic">Pneumatic</a>, and <a href="http://pages.github.com">GitHub&nbsp;Pages</a>.'
 
-SITE_AUTHOR = u'Alexander'
+SITE_AUTHOR = 'Alexander'
 INDEX_DESCRIPTION = 'Website and blog of Alexander McGinn.'
 
 SIDEBAR_LINKS = [
@@ -85,7 +85,7 @@ IGNORE_FILES = ['.DS_Store', 'pneumatic.scss', 'pygments.css']
 extras = ['favicon.ico', 'robots.txt']
 EXTRA_PATH_METADATA = {'extra/%s' % file: {'path': file} for file in extras}
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 
 
 PLUGIN_PATHS = ['plugins']

@@ -32,7 +32,7 @@ THEME_COLOR = '#FF8000'
 
 # Pelican settings
 RELATIVE_URLS = True
-SITEURL = 'mcginn.github.io'
+SITEURL = 'http://mcginn.github.io'
 TIMEZONE = 'Canada/Eastern'
 DAFAULT_DATE = 'fs'
 DEFAULT_DATE_FORMAT = '%B %d, %Y'
@@ -52,7 +52,7 @@ YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
 
 # Disable authors, categories, tage, and category tags
-DIRECT_TEMPLATED = ['index', 'archives']
+DIRECT_TEMPLATES = ['index', 'archives']
 CATEGORY_SAVE_AS = ''
 
 # Disable Atom feed generation

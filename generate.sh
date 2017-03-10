@@ -40,7 +40,7 @@ generate_site() {
     git config --global user.name "Travis CI"
   else
     cd "$rootPath" || exit 1
-    pelican -s $PUBLISH_CONF -v
+    pelican -s $PUBLISH_CONF
   fi
 
   # Pull hash and commit message of the most recent commit

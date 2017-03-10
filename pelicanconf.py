@@ -1,9 +1,3 @@
-'''
-###!/usr/bin/env python
-### -*- coding: utf-8 -*- #
-###from __future__ import unicode_literals
-'''
-
 # Theme-specific settings
 SITENAME = 'Alexander McGinn'
 DOMAIN = 'mcginn.github.io'
@@ -64,14 +58,15 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 TYPOGRIFY = True
-MARKDOWN = {
+MD_EXTENSIONS = ['admonition', 'codehilite(linenums=True)', 'extra']
+'''MARKDOWN = {
         'extension_configs': {
             'markdown.extensions.codehilite': {'linenums':'True'},
             'markdown.extensions.extra': {},
             'markdown.extensions.admonition': {},
             },
         'output_format': 'html5',
-        }
+        }'''
 
 CACHE_CONTENT = False
 DELETE_OUTPUT_DIRECTORY = True

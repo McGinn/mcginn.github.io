@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Alexander McGinn</title><link href="http://mcginn.github.io/" rel="alternate"></link><link href="http://mcginn.github.io/atom.xml" rel="self"></link><id>http://mcginn.github.io/</id><updated>2017-03-02T00:00:00-05:00</updated><entry><title>Test Post - Code Test</title><link href="http://mcginn.github.io/2017/03/test-post-code-test/" rel="alternate"></link><published>2017-03-02T00:00:00-05:00</published><updated>2017-03-02T00:00:00-05:00</updated><author><name></name></author><id>tag:mcginn.github.io,2017-03-02:/2017/03/test-post-code-test/</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;MARKDOWN = {
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Alexander McGinn</title><link href="http://mcginn.github.io/" rel="alternate"></link><link href="http://mcginn.github.io/atom.xml" rel="self"></link><id>http://mcginn.github.io/</id><updated>2017-03-02T00:00:00-05:00</updated><entry><title>Test Post - Code Test</title><link href="http://mcginn.github.io/2017/03/test-post-code-test/" rel="alternate"></link><published>2017-03-02T00:00:00-05:00</published><updated>2017-03-02T00:00:00-05:00</updated><author><name></name></author><id>tag:mcginn.github.io,2017-03-02:/2017/03/test-post-code-test/</id><summary type="html">&lt;table class="codehilitetable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2
+3
+4
+5
+6
+7
+8&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;MARKDOWN = {
     &amp;#39;extension_configs&amp;#39;: {
             &amp;#39;markdown.extensions.codehilite&amp;#39;: {&amp;#39;css_class&amp;#39;: &amp;#39;highlight&amp;#39;},
             &amp;#39;markdown.extensions.extra&amp;#39;: {},
@@ -7,7 +14,15 @@
                          }      
             &amp;#39;output_format&amp;#39;: &amp;#39;html5&amp;#39;,
            }
-&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;MARKDOWN = {
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table class="codehilitetable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2
+3
+4
+5
+6
+7
+8&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;MARKDOWN = {
     &amp;#39;extension_configs&amp;#39;: {
             &amp;#39;markdown.extensions.codehilite&amp;#39;: {&amp;#39;css_class&amp;#39;: &amp;#39;highlight&amp;#39;},
             &amp;#39;markdown.extensions.extra&amp;#39;: {},
@@ -15,4 +30,5 @@
                          }      
             &amp;#39;output_format&amp;#39;: &amp;#39;html5&amp;#39;,
            }
-&lt;/pre&gt;&lt;/div&gt;</content></entry><entry><title>The Undoing Project - Book Review</title><link href="http://mcginn.github.io/2017/03/the-undoing-project-book-review/" rel="alternate"></link><published>2017-03-01T00:00:00-05:00</published><updated>2017-03-01T00:00:00-05:00</updated><author><name></name></author><id>tag:mcginn.github.io,2017-03-01:/2017/03/the-undoing-project-book-review/</id><summary type="html">&lt;p&gt;This was the first book I&amp;#8217;ve read cover to cover in more than a&amp;nbsp;year.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This was the first book I&amp;#8217;ve read cover to cover in more than a&amp;nbsp;year.&lt;/p&gt;</content></entry></feed>
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content></entry><entry><title>The Undoing Project - Book Review</title><link href="http://mcginn.github.io/2017/03/the-undoing-project-book-review/" rel="alternate"></link><published>2017-03-01T00:00:00-05:00</published><updated>2017-03-01T00:00:00-05:00</updated><author><name></name></author><id>tag:mcginn.github.io,2017-03-01:/2017/03/the-undoing-project-book-review/</id><summary type="html">&lt;p&gt;This was the first book I&amp;#8217;ve read cover to cover in more than a&amp;nbsp;year.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This was the first book I&amp;#8217;ve read cover to cover in more than a&amp;nbsp;year.&lt;/p&gt;</content></entry></feed>

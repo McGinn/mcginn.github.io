@@ -24,3 +24,4 @@ Commons Attribution License].
 [travis-article]: http://kevinyap.ca/2014/06/deploying-pelican-sites-using-travis-ci/
 [MIT License]: LICENSE
 [Creative Commons Attribution License]: http://creativecommons.org/licenses/by/4.0/
+[kevinyap.ca]: http://kevinyap.ca

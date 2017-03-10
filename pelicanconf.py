@@ -35,7 +35,7 @@ DEFAULT_DATE_FORMAT = '%B %d, %Y'
 DEFAULT_PAGINATION = False
 SUMMARY_MAX_LENGTH = 42
 
-THEME = 'pneumatic'
+THEME = 'pneumatic/'
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'

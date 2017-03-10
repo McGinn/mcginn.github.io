@@ -58,15 +58,14 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 TYPOGRIFY = True
-MD_EXTENSIONS = ['admonition', 'codehilite(linenums=True)', 'extra']
-'''MARKDOWN = {
+MARKDOWN = {
         'extension_configs': {
             'markdown.extensions.codehilite': {'linenums':'True'},
             'markdown.extensions.extra': {},
             'markdown.extensions.admonition': {},
             },
         'output_format': 'html5',
-        }'''
+        }
 
 CACHE_CONTENT = False
 DELETE_OUTPUT_DIRECTORY = True

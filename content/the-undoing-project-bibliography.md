@@ -1,4 +1,5 @@
-Title: A hyperlinked bibliography of "The Undoing Project" Date: March 10, 2017
+Title: A hyperlinked bibliography of "The Undoing Project" 
+Date: 2017-03-10
 
 Introduction: The problem that never goes away
 
@@ -44,6 +45,7 @@ Chapter 5: The collision
 
 3. Tversky, Amos, and Daniel Khaneman. "Belief in the Law of Small Numbers." Psychological Bulletin 76, no. 2 (1971): 105-10.
 
+
 Chapter 6: The mind's rules
 
 1. Glanz, James, and Eric Lipton. "The Height of Ambition," New York Times Magazine, September 8, 2002.
@@ -58,7 +60,11 @@ Chapter 6: The mind's rules
 
 6. Meehl, Paul E. "Causes and Effects of My Disturbing Little Book." Journal of Personality Assessment 50, no. 3 (1986): 370-75.
 
+
 7. Tversky, Amos, and Daniel Khaneman. "Availability: A Heuristic for Judging Frequency and Probability." Cognitive Psychology 5, no. 2 (1973): 207-32.
+
+
+Chapter 7: 
 
 8. Fischhoff, Baruch. "An Early History of Hindsight Research." Social Cognition 25, no. 1 (2007): 10-13.
 
@@ -67,3 +73,6 @@ Chapter 6: The mind's rules
 10. Khaneman, Daniel, and Amos Tversky. "On the Psychology of Predicition." Psychological Review 80, no. 4 (1973): 237-51.
 
 11. Meehl, Paul E. "Why I Do Not Attend Case Conferences." In Psychodineapolis: University of Minnesota Press, 1973.
+
+
+Chapter 

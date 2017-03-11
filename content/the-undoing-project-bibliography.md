@@ -46,4 +46,4 @@ Chapter 5: The collision
 
 Chapter 6: The mind's rules
 
-1. 
+1. Glanz, James, and Eric Lipton. "The Height of Ambition," New York Times Magazine, September 8, 2002.

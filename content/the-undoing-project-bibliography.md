@@ -47,3 +47,23 @@ Chapter 5: The collision
 Chapter 6: The mind's rules
 
 1. Glanz, James, and Eric Lipton. "The Height of Ambition," New York Times Magazine, September 8, 2002.
+
+2. Goldbarg, Lewis R. "Simple Models or Simple Processes? Some Research on Clinical Judgements," American Psychologist 23, no. 7 (1968): 483-96.
+
+3. ------. "Man versus Model of Man: A Rationale, Plus Some Evidence, for a Method of Improving on Clinical Inferences." Psychological Bulletin 73, no. 6 (1970): 422-32.
+
+4. Hoffman, Paul J. "The Paramorphic Representation of Clinical Judgements." Psychological Bulletin 57, no. 2 (1960): 116-31.
+
+5. Khaneman, Daniel, and Amos Tversky. "Subjective Probability: A Judgements of Representativeness." Coginitive Psychology 3 (1972): 430-54.
+
+6. Meehl, Paul E. "Causes and Effects of My Disturbing Little Book." Journal of Personality Assessment 50, no. 3 (1986): 370-75.
+
+7. Tversky, Amos, and Daniel Khaneman. "Availability: A Heuristic for Judging Frequency and Probability." Cognitive Psychology 5, no. 2 (1973): 207-32.
+
+8. Fischhoff, Baruch. "An Early History of Hindsight Research." Social Cognition 25, no. 1 (2007): 10-13.
+
+9. Howard, R. A., J. E. Matheson, and D. W. North. "The Decision to Send Hurricanes." Science 176 (1972): 1191-1202. http://www.warnernorth.net.hurricanes.pdf.
+
+10. Khaneman, Daniel, and Amos Tversky. "On the Psychology of Predicition." Psychological Review 80, no. 4 (1973): 237-51.
+
+11. Meehl, Paul E. "Why I Do Not Attend Case Conferences." In Psychodineapolis: University of Minnesota Press, 1973.

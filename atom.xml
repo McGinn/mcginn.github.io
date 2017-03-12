@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Alexander McGinn</title><link href="http://mcginn.github.io/" rel="alternate"></link><link href="http://mcginn.github.io/atom.xml" rel="self"></link><id>http://mcginn.github.io/</id><updated>2017-03-12T00:00:00-05:00</updated><entry><title>A hyperlinked bibliography of “The Undoing Project”</title><link href="http://mcginn.github.io/2017/03/a-hyperlinked-bibliography-of-the-undoing-project/" rel="alternate"></link><published>2017-03-12T00:00:00-05:00</published><updated>2017-03-12T00:00:00-05:00</updated><author><name></name></author><id>tag:mcginn.github.io,2017-03-12:/2017/03/a-hyperlinked-bibliography-of-the-undoing-project/</id><summary type="html">&lt;p&gt;Below is the bibliography for &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Special:BookSources/978-0393254594"&gt;The Undoing Project&lt;/a&gt;&lt;/em&gt;. I have added links to materials and books referenced wherever they are&amp;nbsp;available.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Alexander McGinn</title><link href="http://mcginn.github.io/" rel="alternate"></link><link href="http://mcginn.github.io/atom.xml" rel="self"></link><id>http://mcginn.github.io/</id><updated>2017-03-12T00:00:00-05:00</updated><entry><title>*The Undoing Project* bibliography</title><link href="http://mcginn.github.io/2017/03/the-undoing-project-bibliography/" rel="alternate"></link><published>2017-03-12T00:00:00-05:00</published><updated>2017-03-12T00:00:00-05:00</updated><author><name></name></author><id>tag:mcginn.github.io,2017-03-12:/2017/03/the-undoing-project-bibliography/</id><summary type="html">&lt;p&gt;Below is the bibliography for &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Special:BookSources/978-0393254594"&gt;The Undoing Project&lt;/a&gt;&lt;/em&gt;. I have added links to materials and books wherever they are&amp;nbsp;available.&lt;/p&gt;
 &lt;h3&gt;Introduction: The problem that never goes&amp;nbsp;away&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;Thaler, Richard H., and Cass R. Sunstein. &lt;a href="https://newrepublic.com/article/61123/whos-first"&gt;&amp;#8220;Who&amp;#8217;s on First.&amp;#8221;&lt;/a&gt; New Republic, August …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;Below is the bibliography for &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Special:BookSources/978-0393254594"&gt;The Undoing Project&lt;/a&gt;&lt;/em&gt;. I have added links to materials and books referenced wherever they are&amp;nbsp;available.&lt;/p&gt;
+&lt;li&gt;Thaler, Richard H., and Cass R. Sunstein. &lt;a href="https://newrepublic.com/article/61123/whos-first"&gt;&amp;#8220;Who&amp;#8217;s on First.&amp;#8221;&lt;/a&gt; New Republic, August 31 …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;Below is the bibliography for &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Special:BookSources/978-0393254594"&gt;The Undoing Project&lt;/a&gt;&lt;/em&gt;. I have added links to materials and books wherever they are&amp;nbsp;available.&lt;/p&gt;
 &lt;h3&gt;Introduction: The problem that never goes&amp;nbsp;away&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Thaler, Richard H., and Cass R. Sunstein. &lt;a href="https://newrepublic.com/article/61123/whos-first"&gt;&amp;#8220;Who&amp;#8217;s on First.&amp;#8221;&lt;/a&gt; New Republic, August 31,&amp;nbsp;2003.&lt;/li&gt;
@@ -223,36 +223,4 @@
 &lt;li&gt;
 &lt;p&gt;Murchison, Carl, Gardner Lindzey, et al., eds. A History of Psychology in Autobiography. Vols. I-&lt;span class="caps"&gt;IX&lt;/span&gt;. Worcester, &lt;span class="caps"&gt;MA&lt;/span&gt;: Clark University Press, and Washington, &lt;span class="caps"&gt;DC&lt;/span&gt;: American Psychological Association,&amp;nbsp;1930-2007.&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</content></entry><entry><title>Test Post - Code Test</title><link href="http://mcginn.github.io/2017/03/test-post-code-test/" rel="alternate"></link><published>2017-03-02T00:00:00-05:00</published><updated>2017-03-02T00:00:00-05:00</updated><author><name></name></author><id>tag:mcginn.github.io,2017-03-02:/2017/03/test-post-code-test/</id><summary type="html">&lt;table class="codehilitetable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
-2
-3
-4
-5
-6
-7
-8&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;MARKDOWN = {
-    &amp;#39;extension_configs&amp;#39;: {
-            &amp;#39;markdown.extensions.codehilite&amp;#39;: {&amp;#39;css_class&amp;#39;: &amp;#39;highlight&amp;#39;},
-            &amp;#39;markdown.extensions.extra&amp;#39;: {},
-            &amp;#39;markdown.extensions.meta&amp;#39;: {},
-                         }      
-            &amp;#39;output_format&amp;#39;: &amp;#39;html5&amp;#39;,
-           }
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary><content type="html">&lt;table class="codehilitetable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
-2
-3
-4
-5
-6
-7
-8&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;MARKDOWN = {
-    &amp;#39;extension_configs&amp;#39;: {
-            &amp;#39;markdown.extensions.codehilite&amp;#39;: {&amp;#39;css_class&amp;#39;: &amp;#39;highlight&amp;#39;},
-            &amp;#39;markdown.extensions.extra&amp;#39;: {},
-            &amp;#39;markdown.extensions.meta&amp;#39;: {},
-                         }      
-            &amp;#39;output_format&amp;#39;: &amp;#39;html5&amp;#39;,
-           }
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content></entry><entry><title>The Undoing Project - Book Review</title><link href="http://mcginn.github.io/2017/03/the-undoing-project-book-review/" rel="alternate"></link><published>2017-03-01T00:00:00-05:00</published><updated>2017-03-01T00:00:00-05:00</updated><author><name></name></author><id>tag:mcginn.github.io,2017-03-01:/2017/03/the-undoing-project-book-review/</id><summary type="html">&lt;p&gt;This was the first book I&amp;#8217;ve read cover to cover in more than a&amp;nbsp;year.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This was the first book I&amp;#8217;ve read cover to cover in more than a&amp;nbsp;year.&lt;/p&gt;</content></entry></feed>
+&lt;/ol&gt;</content></entry></feed>

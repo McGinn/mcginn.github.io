@@ -1,6 +1,10 @@
 Title: A hyperlinked bibliography of "The Undoing Project" 
 Date: 2017-03-10
 
+
+Below is the bibliography for *[The Undoing Project]*. I have added links to materials and books referenced wherever they are available.
+
+
 ### Introduction: The problem that never goes away
 
 1. Thaler, Richard H., and Cass R. Sunstein. "Who's on First." New Republic, August 31, 2003. <https://newrepublic.com/article/61123/whos-first>.
@@ -34,12 +38,12 @@ Date: 2017-03-10
 
 1. Hess, Eckhard H. "Attitude and Pupil Size." Scientific American, April 1965, 46-54.
 
-2. Miller, George A. "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information." Psychological Review 63 (1956): 81-97
+2. Miller, George A. ["The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information."] Psychological Review 63 (1956): 81-97
 
 
 ### Chapter 5: The collision
 
-1. Friedman, Milton. "The Methodology of Positive Economics." In Essays in Positive Economics, editied by Milton Friedman, 2-46. Chicago University Press, 1953.
+1. Friedman, Milton. ["The Methodology of Positive Economics."] In Essays in Positive Economics, editied by Milton Friedman, 2-46. Chicago University Press, 1953.
 
 2. Krantz, David H., R. Duncan Luce, Patrick Suppes, and Amos Tversky, Foundations of Measurements--Vol. I: Additive and Polynomial Representations; Vol II: Geometrical, Threashold, and Probabilistics Representations; Vol III: Representations, Axiomatization, and Invariance. San Diego and London: Academic Press, 1971-90; repr., Mineola, NY: Dover 2007.
 
@@ -168,12 +172,17 @@ Tversky, Amos, and Daniel Khaneman. "Judgement under Undercertainty: Heuristics 
 
 
 
-
+[The Undoing Project]: https://en.wikipedia.org/wiki/Special:BookSources/978-0393254594
 
 ["The Republican Horse Race Is Over, and Journalism Lost."]: https://www.nytimes.com/2016/05/06/business/media/the-republican-horse-race-is-over-and-journalism-lost.html
 [Clinical versus Statistical Prediction.]: https://faculty.washington.edu/jmiyamot/p466/pprs/meehlpe%20clinical%20versus%20stat%20prediction%20-%20theoretical%20anal%20&%20evidence.pdf
 ["Psychology: Does Our Heterogeneous Subject Matter Have Any Unity?"]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.2526&rep=rep1&type=pdf
 ["A Set of Independent Necessary and Sufficient Conditions for Simple Majority Decision."]: http://www.eecs.harvard.edu/cs286r/courses/fall11/papers/May52.pdf
+
+["The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information."]: http://www.psych.utoronto.ca/users/peterson/psy430s2001/Miller%20GA%20Magical%20Seven%20Psych%20Review%201955.pdf
+["The Methodology of Positive Economics."]: http://kimoon.co.kr/gmi/reading/friedman-1966.pdf
+
+
 
 
 

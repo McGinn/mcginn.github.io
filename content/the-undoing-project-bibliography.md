@@ -7,7 +7,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 ### Introduction: The problem that never goes away
 
-1. Thaler, Richard H., and Cass R. Sunstein. "Who's on First." New Republic, August 31, 2003. <https://newrepublic.com/article/61123/whos-first>.
+1. Thaler, Richard H., and Cass R. Sunstein. ["Who's on First."] New Republic, August 31, 2003.
 
 
 ### Chapter 1: Man boobs
@@ -21,17 +21,17 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 ### Chapter 3: The insider
 
-1. Edwards, Ward. "The Theory of Decision Making." Psychological Bulletin 51, no. 4 (1954): 380-417. <http://worthylab.tamu.edu/courses_files/01_edwards_1954.pdf>
+1. Edwards, Ward. ["The Theory of Decision Making."] Psychological Bulletin 51, no. 4 (1954): 380-417.
 
-2. Guttman, Louis. "What Is Not What in Statistics." Journal of the Royal Statistical Society 26, no. 2 (1977): 81-107. <http://www.jstor.org/stable/2987957>.
+2. Guttman, Louis. ["What Is Not What in Statistics."] Journal of the Royal Statistical Society 26, no. 2 (1977): 81-107.
 
 3. May, Kenneth. ["A Set of Independent Necessary and Sufficient Conditions for Simple Majority Decision."] Econometrics 20, no. 4 (1952): 680-84.
 
-4. Rosch, Eleanor, Carolyn D. Mervis, Wayne D. Gray, David M. Jonson, and Penny Boyes-Braem. "Basic Objects in Natural Categories." Cognitive Psychology 8 (1976): 382-439. <http://www.cns.nyu.edu/~msl/courses/2223/Readings/Rosch-CogPsych1976.pdf>.
+4. Rosch, Eleanor, Carolyn D. Mervis, Wayne D. Gray, David M. Jonson, and Penny Boyes-Braem. ["Basic Objects in Natural Categories."] Cognitive Psychology 8 (1976): 382-439.
 
-5. Tversky, Amos. "The Intransitivity of Preferences." Psychological Review 76 (1960): 31-48.
+5. Tversky, Amos. ["The Intransitivity of Preferences."]\[paid access\] Psychological Review 76 (1960): 31-48.
 
-6. ------."Features of Similarity." Psychological Review 84, no. 4 (1977): 327-52. <http://www.ai.mit.edu/projects/dm/Tversky-features.pdf>.
+6. ------.["Features of Similarity."] Psychological Review 84, no. 4 (1977): 327-52.
 
 
 ### Chapter 4: Errors
@@ -72,7 +72,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 1. Fischhoff, Baruch. "An Early History of Hindsight Research." Social Cognition 25, no. 1 (2007): 10-13.
 
-2. Howard, R. A., J. E. Matheson, and D. W. North. "The Decision to Send Hurricanes." Science 176 (1972): 1191-1202. <http://www.warnernorth.net.hurricanes.pdf>.
+2. Howard, R. A., J. E. Matheson, and D. W. North. ["The Decision to Send Hurricanes."] Science 176 (1972): 1191-1202.
 
 3. Khaneman, Daniel, and Amos Tversky. "On the Psychology of Predicition." Psychological Review 80, no. 4 (1973): 237-51.
 
@@ -171,18 +171,32 @@ Tversky, Amos, and Daniel Khaneman. "Judgement under Undercertainty: Heuristics 
 
 
 
-
+[//]: # ()
 [The Undoing Project]: https://en.wikipedia.org/wiki/Special:BookSources/978-0393254594
 
+[//]: # (Introduction)
+["Who's on First."]: https://newrepublic.com/article/61123/whos-first
+
+[//]: # (Chapter 1)
 ["The Republican Horse Race Is Over, and Journalism Lost."]: https://www.nytimes.com/2016/05/06/business/media/the-republican-horse-race-is-over-and-journalism-lost.html
 [Clinical versus Statistical Prediction.]: https://faculty.washington.edu/jmiyamot/p466/pprs/meehlpe%20clinical%20versus%20stat%20prediction%20-%20theoretical%20anal%20&%20evidence.pdf
 ["Psychology: Does Our Heterogeneous Subject Matter Have Any Unity?"]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.2526&rep=rep1&type=pdf
+
+[//]: # (Chapter 3)
+["The Theory of Decision Making."]: http://worthylab.tamu.edu/courses_files/01_edwards_1954.pdf
+["What Is Not What in Statistics."]: http://www.jstor.org/stable/2987957
 ["A Set of Independent Necessary and Sufficient Conditions for Simple Majority Decision."]: http://www.eecs.harvard.edu/cs286r/courses/fall11/papers/May52.pdf
+["Basic Objects in Natural Categories."]: http://www.cns.nyu.edu/~msl/courses/2223/Readings/Rosch-CogPsych1976.pdf
+["The Intransitivity of Preferences."]: http://dx.doi.org/10.1037/h0026750
+["Features of Similarity."]: http://www.ai.mit.edu/projects/dm/Tversky-features.pdf
+
+
+
 
 ["The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information."]: http://www.psych.utoronto.ca/users/peterson/psy430s2001/Miller%20GA%20Magical%20Seven%20Psych%20Review%201955.pdf
 ["The Methodology of Positive Economics."]: http://kimoon.co.kr/gmi/reading/friedman-1966.pdf
 
-
-
+[//]: # (Chapter 7)
+["The Decision to Send Hurricanes."]: http://www.warnernorth.net.hurricanes.pdf
 
 

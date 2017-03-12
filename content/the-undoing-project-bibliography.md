@@ -1,5 +1,5 @@
 Title: A hyperlinked bibliography of "The Undoing Project" 
-Date: 2017-03-10
+Date: 2017-03-12
 
 
 Below is the bibliography for *[The Undoing Project]*. I have added links to materials and books referenced wherever they are available.
@@ -128,7 +128,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 ### Chapter 12: This cloud of possibility
 
-1. Cohen, L. Jonathan. ["On the Psychology of Prediction: Whose Is the Fallacy?"] Cognition 7, no. 4 (1979): 385-407.
+1. Cohen, L. Jonathan. ["On the Psychology of Prediction: Whose Is the Fallacy?"] \[paid access\] Cognition 7, no. 4 (1979): 385-407.
 
 2. ------. ["Can Human Irrationality Be Experimentally Demonstrated?"] The Behavioral and Brain Sciences 4, no. 3 (1981): 317-31. Followed by thirty-nine pages of letters, including Persi Diaconis and David Freedman, "The Persistence of Cognitive Illusions: A Rejoinder to L. J. Cohen," 333-34, and a response by Cohen, 331-70.
 
@@ -138,7 +138,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 5. ------. ["On Cognitive Illusions and Rationality."] In Probability and Rationality: Studies on L. Jonathan Cohen's Philospohy of Science, edited by Ellery Eells and Tomasz Maruszewski, 225-49. Poznań Studies in the Philosophy of the Sciences and the Humanities, Vol. 21. Amsterdam: Rodopi, 1991.
 
-6. ------. ["The Bounded Rationality of Probabilistics Mental Models."] In Rationality: Psychological and Philosophical Prespectives, edited by Ken Manktelow and David Over, 284-313. London: Routledge, 1993.
+6. ------. ["The Bounded Rationality of Probabilistic Mental Models."] In Rationality: Psychological and Philosophical Prespectives, edited by Ken Manktelow and David Over, 284-313. London: Routledge, 1993.
 
 7. ------. ["Why the Distinction between Single-Event Probabilities and Frequencies Is Important for Psychology (and Vice Versa)."] In Subjective Probability, ed. George Wright and Peter Ayton, 129-61. Chichester, UK: Wiley, 1994.
 
@@ -146,11 +146,11 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 9. ------. ["Ecological Intelligence: An Adaptation for Frequencies."] In The Evolution of Mind, edited by Denise Dellarosa Summins and Colin Allen, 9-29. New York: Oxford University Press, 1998.
 
-10. Khaneman, Daniel, and Amos Tversky. ["Discussion: On the Interpretation of Intuitive Probability: A Reply to Jonathan Cohen."] Cognition 7, no. 4 (1979): 409-11.
+10. Khaneman, Daniel, and Amos Tversky. ["Discussion: On the Interpretation of Intuitive Probability: A Reply to Jonathan Cohen."] \[paid access\] Cognition 7, no. 4 (1979): 409-11.
 
 11. Tversky, Amos, and Daniel Khaneman. ["Extensional versus Intuitive Reasoning: The Conjunction Fallacy in Probabilistic Judgement."] Psychological Review 90, no. 4 (1983): 293-315.
 
-12. ------. ["Advances in Prospect Theory."] Journal of Risk and Uncertainty 5 (1992): 297-323. <http://psych.fullerton.edu/mbirnbaum/psych466/articles/tversky_khaneman_jru_92.pdf>.
+12. ------. ["Advances in Prospect Theory."] Journal of Risk and Uncertainty 5 (1992): 297-323.
 
 13. Vranas, Peter B. M. ["Gigerenzer's Normative Critique of Khaneman and Tversky."] Cognition 76 (2000): 179-93.
 
@@ -242,19 +242,19 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 ["The Framing of Decisions and the Psychology of Choice."]: http://psych.hanover.edu/classes/cognition/papers/tversky81.pdf
 
 [//]: # (Chapter 12)
-["On the Psychology of Prediction: Whose Is the Fallacy?"]: 
-["Can Human Irrationality Be Experimentally Demonstrated?"]: 
-[Knowledge and Language: Selected Essays of L. Jonathan Cohen,]: 
-["How to Make Cognitive Illusions Disappear: Beyond 'Heuristics and Biases.'"]: 
-["On Cognitive Illusions and Rationality."]: 
-["The Bounded Rationality of Probabilistics Mental Models."]: 
-["Why the Distinction between Single-Event Probabilities and Frequencies Is Important for Psychology (and Vice Versa)."]: 
-["On Narrow Norms and Vague Heuristics: A Reply to Khaneman and Tversky."]: 
-["Ecological Intelligence: An Adaptation for Frequencies."]: 
-["Discussion: On the Interpretation of Intuitive Probability: A Reply to Jonathan Cohen."]: 
-["Extensional versus Intuitive Reasoning: The Conjunction Fallacy in Probabilistic Judgement."]: 
-["Advances in Prospect Theory."]: 
-["Gigerenzer's Normative Critique of Khaneman and Tversky."]: 
+["On the Psychology of Prediction: Whose Is the Fallacy?"]: http://dx.doi.org/10.1016/0010-0277(79)90023-4
+["Can Human Irrationality Be Experimentally Demonstrated?"]: http://www.thatmarcusfamily.org/philosophy/Course_Websites/Readings/Cohen%20-%20Human%20Irrationality.pdf
+[Knowledge and Language: Selected Essays of L. Jonathan Cohen,]: https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-94-017-2020-5
+["How to Make Cognitive Illusions Disappear: Beyond 'Heuristics and Biases.'"]: http://library.mpib-berlin.mpg.de/ft/gg/gg_how_1991.pdf
+["On Cognitive Illusions and Rationality."]: https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-9051833164
+["The Bounded Rationality of Probabilistic Mental Models."]: https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780415069557
+["Why the Distinction between Single-Event Probabilities and Frequencies Is Important for Psychology (and Vice Versa)."]: https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-0471944430
+["On Narrow Norms and Vague Heuristics: A Reply to Khaneman and Tversky."]: http://library.mpib-berlin.mpg.de/ft/gg/gg_on%20narrow_1996.pdf
+["Ecological Intelligence: An Adaptation for Frequencies."]: http://library.mpib-berlin.mpg.de/ft/gg/GG_Ecological_1998.pdf
+["Discussion: On the Interpretation of Intuitive Probability: A Reply to Jonathan Cohen."]: http://dx.doi.org/10.1016/0010-0277(79)90024-6
+["Extensional versus Intuitive Reasoning: The Conjunction Fallacy in Probabilistic Judgement."]: http://faculty.econ.ucdavis.edu/faculty/nehring/teaching/econ106/readings/Extensional%20Versus%20Intuitive.pdf
+["Advances in Prospect Theory."]: http://psych.fullerton.edu/mbirnbaum/psych466/articles/tversky_khaneman_jru_92.pdf
+["Gigerenzer's Normative Critique of Khaneman and Tversky."]: https://philpapers.org/archive/VRAGNC.pdf
 
 [//]: # (Coda)
 ["Association between Cellular-Telephone Calls and Motor Vehicle Collisions."]: http://nejm.org/doi/full/10.1056/NEJM199702133360701#t=article

@@ -8,11 +8,11 @@ Date: 2017-03-10
 
 ### Chapter 1: Man boobs
 
-1. Rutenberg, Jim. "The Republican Horse Race Is Over, and Journalism Lost." New York Times, May 9, 2016.
+1. Rutenberg, Jim. ["The Republican Horse Race Is Over, and Journalism Lost."] New York Times, May 9, 2016.
 
-2. Meehl, Paul E. Clinical versus Statistical Prediction. Minneapolis: University of Minnesota Press, 1954.
+2. Meehl, Paul E. [Clinical versus Statistical Prediction.] Minneapolis: University of Minnesota Press, 1954.
 
-3. ------. "Psychology: Does Our Heterogeneous Subject Matter Have Any Unity?" Minnesota Psychologist 35 (1986): 3-9.
+3. ------. ["Psychology: Does Our Heterogeneous Subject Matter Have Any Unity?"] Minnesota Psychologist 35 (1986): 3-9.
 
 
 ### Chapter 3: The insider
@@ -21,7 +21,7 @@ Date: 2017-03-10
 
 2. Guttman, Louis. "What Is Not What in Statistics." Journal of the Royal Statistical Society 26, no. 2 (1977): 81-107. <http://www.jstor.org/stable/2987957>.
 
-3. May, Kenneth. "A Set of Independent Necessary and Sufficient Conditions for Simple Majority Decision." Econometrics 20, no. 4 (1952): 680-84.
+3. May, Kenneth. ["A Set of Independent Necessary and Sufficient Conditions for Simple Majority Decision."] Econometrics 20, no. 4 (1952): 680-84.
 
 4. Rosch, Eleanor, Carolyn D. Mervis, Wayne D. Gray, David M. Jonson, and Penny Boyes-Braem. "Basic Objects in Natural Categories." Cognitive Psychology 8 (1976): 382-439. <http://www.cns.nyu.edu/~msl/courses/2223/Readings/Rosch-CogPsych1976.pdf>.
 
@@ -164,3 +164,16 @@ Tversky, Amos, and Daniel Khaneman. "Judgement under Undercertainty: Heuristics 
 1. Kazdin, Alan E., ed. Encylopedia of Psychology. 8 vols. Washington, DC: American Psychological Association, and New York: Oxford University Press, 2000.
 
 2. Murchison, Carl, Gardner Lindzey, et al., eds. A History of Psychology in Autobiography. Vols. I-IX. Worcester, MA: Clark University Press, and Washington, DC: American Psychological Association, 1930-2007.
+
+
+
+
+
+
+["The Republican Horse Race Is Over, and Journalism Lost."]: https://www.nytimes.com/2016/05/06/business/media/the-republican-horse-race-is-over-and-journalism-lost.html
+[Clinical versus Statistical Prediction.]: https://faculty.washington.edu/jmiyamot/p466/pprs/meehlpe%20clinical%20versus%20stat%20prediction%20-%20theoretical%20anal%20&%20evidence.pdf
+["Psychology: Does Our Heterogeneous Subject Matter Have Any Unity?"]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.2526&rep=rep1&type=pdf
+["A Set of Independent Necessary and Sufficient Conditions for Simple Majority Decision."]: http://www.eecs.harvard.edu/cs286r/courses/fall11/papers/May52.pdf
+
+
+

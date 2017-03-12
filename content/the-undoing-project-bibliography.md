@@ -1,12 +1,12 @@
 Title: A hyperlinked bibliography of "The Undoing Project" 
 Date: 2017-03-10
 
-Introduction: The problem that never goes away
+### Introduction: The problem that never goes away
 
-1. Thaler, Richard H., and Cass R. Sunstein. "Who's on First." New Republic, August 31, 2003. https://newrepublic.com/article/61123/whos-first.
+1. Thaler, Richard H., and Cass R. Sunstein. "Who's on First." New Republic, August 31, 2003. <https://newrepublic.com/article/61123/whos-first>.
 
 
-Chapter 1: Man boobs
+### Chapter 1: Man boobs
 
 1. Rutenberg, Jim. "The Republican Horse Race Is Over, and Journalism Lost." New York Times, May 9, 2016.
 
@@ -15,29 +15,29 @@ Chapter 1: Man boobs
 3. ------. "Psychology: Does Our Heterogeneous Subject Matter Have Any Unity?" Minnesota Psychologist 35 (1986): 3-9.
 
 
-Chapter 3: The insider
+### Chapter 3: The insider
 
-1. Edwards, Ward. "The Theory of Decision Making." Psychological Bulletin 51, no. 4 (1954): 380-417. http://worthylab.tamu.edu/courses_files/01_edwards_1954.pdf
+1. Edwards, Ward. "The Theory of Decision Making." Psychological Bulletin 51, no. 4 (1954): 380-417. <http://worthylab.tamu.edu/courses_files/01_edwards_1954.pdf>
 
-2. Guttman, Louis. "What Is Not What in Statistics." Journal of the Royal Statistical Society 26, no. 2 (1977): 81-107. http://www.jstor.org/stable/2987957.
+2. Guttman, Louis. "What Is Not What in Statistics." Journal of the Royal Statistical Society 26, no. 2 (1977): 81-107. <http://www.jstor.org/stable/2987957>.
 
 3. May, Kenneth. "A Set of Independent Necessary and Sufficient Conditions for Simple Majority Decision." Econometrics 20, no. 4 (1952): 680-84.
 
-4. Rosch, Eleanor, Carolyn D. Mervis, Wayne D. Gray, David M. Jonson, and Penny Boyes-Braem. "Basic Objects in Natural Categories." Cognitive Psychology 8 (1976): 382-439. http://www.cns.nyu.edu/~msl/courses/2223/Readings/Rosch-CogPsych1976.pdf.
+4. Rosch, Eleanor, Carolyn D. Mervis, Wayne D. Gray, David M. Jonson, and Penny Boyes-Braem. "Basic Objects in Natural Categories." Cognitive Psychology 8 (1976): 382-439. <http://www.cns.nyu.edu/~msl/courses/2223/Readings/Rosch-CogPsych1976.pdf>.
 
 5. Tversky, Amos. "The Intransitivity of Preferences." Psychological Review 76 (1960): 31-48.
 
-6. ------."Features of Similarity." Psychological Review 84, no. 4 (1977): 327-52. http://www.ai.mit.edu/projects/dm/Tversky-features.pdf.
+6. ------."Features of Similarity." Psychological Review 84, no. 4 (1977): 327-52. <http://www.ai.mit.edu/projects/dm/Tversky-features.pdf>.
 
 
-Chapter 4: Errors
+### Chapter 4: Errors
 
 1. Hess, Eckhard H. "Attitude and Pupil Size." Scientific American, April 1965, 46-54.
 
 2. Miller, George A. "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information." Psychological Review 63 (1956): 81-97
 
 
-Chapter 5: The collision
+### Chapter 5: The collision
 
 1. Friedman, Milton. "The Methodology of Positive Economics." In Essays in Positive Economics, editied by Milton Friedman, 2-46. Chicago University Press, 1953.
 
@@ -46,7 +46,7 @@ Chapter 5: The collision
 3. Tversky, Amos, and Daniel Khaneman. "Belief in the Law of Small Numbers." Psychological Bulletin 76, no. 2 (1971): 105-10.
 
 
-Chapter 6: The mind's rules
+### Chapter 6: The mind's rules
 
 1. Glanz, James, and Eric Lipton. "The Height of Ambition," New York Times Magazine, September 8, 2002.
 
@@ -64,31 +64,31 @@ Chapter 6: The mind's rules
 7. Tversky, Amos, and Daniel Khaneman. "Availability: A Heuristic for Judging Frequency and Probability." Cognitive Psychology 5, no. 2 (1973): 207-32.
 
 
-Chapter 7: The rules of prediction
+### Chapter 7: The rules of prediction
 
 1. Fischhoff, Baruch. "An Early History of Hindsight Research." Social Cognition 25, no. 1 (2007): 10-13.
 
-2. Howard, R. A., J. E. Matheson, and D. W. North. "The Decision to Send Hurricanes." Science 176 (1972): 1191-1202. http://www.warnernorth.net.hurricanes.pdf.
+2. Howard, R. A., J. E. Matheson, and D. W. North. "The Decision to Send Hurricanes." Science 176 (1972): 1191-1202. <http://www.warnernorth.net.hurricanes.pdf>.
 
 3. Khaneman, Daniel, and Amos Tversky. "On the Psychology of Predicition." Psychological Review 80, no. 4 (1973): 237-51.
 
 4. Meehl, Paul E. "Why I Do Not Attend Case Conferences." In Psychodineapolis: University of Minnesota Press, 1973.
 
 
-Chapter 8: Going viral
+### Chapter 8: Going viral
 
 1. Redelmeier, Donald A., Joel Katz, and Dnaiel Khaneman. "Memories of Colonoscopy: A Randomizied Trial," Pain 104, nos. 1-2 (2003): 187-94
 
 2. Redelmeier, Donald A., and Amos Tversky. "Discrepancy between Midical Decisions for Individual Patients and for Groups." New England Journal of Medicine 322 (1990): 1162-64.
 
-3. ------. Letter to the editor. New England Journal of Medicine 323 (1990): 923. http://www.nejm.org/doi/pdf/10.10566/NEJM199009273231320.
+3. ------. Letter to the editor. New England Journal of Medicine 323 (1990): 923. <http://www.nejm.org/doi/pdf/10.10566/NEJM199009273231320>.
 
-4. ------.  "On the Belief That Arthritis Pain Is Related of the Weather." Proceedings of the National Academy of Sciences 93, no. 7 (1996): 2895-96. http://www.pnas.org/content/93/7/2895.full.pdf.
+4. ------.  "On the Belief That Arthritis Pain Is Related of the Weather." Proceedings of the National Academy of Sciences 93, no. 7 (1996): 2895-96. <http://www.pnas.org/content/93/7/2895.full.pdf>.
 
 Tversky, Amos, and Daniel Khaneman. "Judgement under Undercertainty: Heuristics and Biases." Science 185 (1974): 1124-31.
 
 
-Chapter 9: Birth of the warrior psychologist
+### Chapter 9: Birth of the warrior psychologist
 
 1. Allais, Maurice. "Le Comportement de l'homme rationnel devant le risque critique des postulate et axiomes de l'ecole américaine." Econometrica 21, no. 4 (1953): 503-46. English summary: https://goo.gl/cUvOVb.
 
@@ -103,12 +103,12 @@ Chapter 9: Birth of the warrior psychologist
 6. Savage, Leonard J. The Foundations of Statistics. New York: Wiley, 1954.
 
 
-Chapter 0: The isolation effect
+### Chapter 10: The isolation effect
 
 1. Khaneman, Dnaiel, and Amos Tversky. "Prospect Theory: An Analysis of Decision under Risk." Econometrica 47, no. 2 (1979): 263-91.
 
 
-Chapter 11: The rules of undoing
+### Chapter 11: The rules of undoing
 
 1. Hobson, J. Allan, and Robert W. McCarley. "The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Cream Process." American Journal of Psychiatry 134, no. 12 (1977): 1335-48.
 
@@ -118,12 +118,12 @@ Chapter 11: The rules of undoing
 
 4. Khaneman, Daniel, and Amos Tversky. "The Simulatiuon Heuristic." In Judgement under Uncertainty: Heuristics and Biases, edited by Daniel Khaneman, Paul Slovic, and Amos Tversky, 3-22. Cambridge: Cambridge University Press, 1982.
 
-5. LeCompte, Tom. "The Disorient Express." Air & Space, September 2008, 38-43. http://ww.airspacemag.com/military-aviation/the-disorient-express-474780/.
+5. LeCompte, Tom. "The Disorient Express." Air & Space, September 2008, 38-43. <http://ww.airspacemag.com/military-aviation/the-disorient-express-474780/>.
 
 6. Tversky, Amos, and Daniel Khaneman. "The Framing of Decisions and the Psychology of Choice." Science 21, no. 4481 (1981): 453-58
 
 
-Chapter 12: This cloud of possibility
+### Chapter 12: This cloud of possibility
 
 1. Cohen, L. Jonathan. "On the Psychology of Prediction: Whose Is the Fallacy?" Cognition 7, no. 4 (1979): 385-407.
 
@@ -147,19 +147,19 @@ Chapter 12: This cloud of possibility
 
 11. Tversky, Amos, and Daniel Khaneman. "Extensional versus Intuitive Reasoning: The Conjunction Fallacy in Probabilistic Judgement."" Psychological Review 90, no. 4 (1983): 293-315.
 
-12. ------. "Advances in Prospect Theory." Journal of Risk and Uncertainty 5 (1992): 297-323. http://psych.fullerton.edu/mbirnbaum/psych466/articles/tversky_khaneman_jru_92.pdf.
+12. ------. "Advances in Prospect Theory." Journal of Risk and Uncertainty 5 (1992): 297-323. <http://psych.fullerton.edu/mbirnbaum/psych466/articles/tversky_khaneman_jru_92.pdf>.
 
 13. Vranas, Peter B. M. "Gigerenzer's Normative Critique of Khaneman and Tversky." Cognition 76 (2000): 179-93.
 
 
-Coda: Bora-bora
+### Coda: Bora-bora
 
-1. Redelmeier, Donald A., and Robert J. Tibshirani. "Association between Cellular-Telephone Calls and Motor Vehicle Collisiions." New ngland Journal of Medicine 336 (1997): 453-58. http://nejm.org/doi/full/10.1056/NEJM199702133360701#t=article.
+1. Redelmeier, Donald A., and Robert J. Tibshirani. "Association between Cellular-Telephone Calls and Motor Vehicle Collisiions." New ngland Journal of Medicine 336 (1997): 453-58. <http://nejm.org/doi/full/10.1056/NEJM199702133360701#t=article>.
 
-2. Thaler, Richard. "Toward a Positive Theory of Consumer Choice." Journal of Economic Behavior and Organization 1 (1980): 39-60. http://www.eief.it/butler/files/2009/11/thaler80.pdf.
+2. Thaler, Richard. "Toward a Positive Theory of Consumer Choice." Journal of Economic Behavior and Organization 1 (1980): 39-60. <http://www.eief.it/butler/files/2009/11/thaler80.pdf>.
 
 
-General
+### General
 
 1. Kazdin, Alan E., ed. Encylopedia of Psychology. 8 vols. Washington, DC: American Psychological Association, and New York: Oxford University Press, 2000.
 

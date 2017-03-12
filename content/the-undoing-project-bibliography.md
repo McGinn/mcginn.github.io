@@ -1,8 +1,8 @@
-Title: A hyperlinked bibliography of "The Undoing Project" 
+Title: *The Undoing Project* bibliography
 Date: 2017-03-12
 
 
-Below is the bibliography for *[The Undoing Project]*. I have added links to materials and books referenced wherever they are available.
+Below is the bibliography for *[The Undoing Project]*. I have added links to materials and books wherever they are available.
 
 
 ### Introduction: The problem that never goes away

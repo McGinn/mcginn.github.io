@@ -1,4 +1,4 @@
-Title: *The Undoing Project* bibliography
+Title: The Undoing Project bibliography
 Date: 2017-03-12
 
 

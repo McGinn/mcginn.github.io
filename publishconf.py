@@ -10,4 +10,4 @@ OUTPUT_PATH = 'output/'
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "UA-23913932-1"

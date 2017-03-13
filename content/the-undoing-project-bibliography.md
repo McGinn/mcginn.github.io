@@ -29,14 +29,14 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 4. Rosch, Eleanor, Carolyn D. Mervis, Wayne D. Gray, David M. Jonson, and Penny Boyes-Braem. ["Basic Objects in Natural Categories."] Cognitive Psychology 8 (1976): 382-439.
 
-5. Tversky, Amos. ["The Intransitivity of Preferences."] \[paid access\] Psychological Review 76 (1960): 31-48.
+5. Tversky, Amos. ["The Intransitivity of Preferences."] Psychological Review 76 (1960): 31-48.
 
 6. ------.["Features of Similarity."] Psychological Review 84, no. 4 (1977): 327-52.
 
 
 ### Chapter 4: Errors
 
-1. Hess, Eckhard H. ["Attitude and Pupil Size."] \[paid access\] Scientific American, April 1965, 46-54.
+1. Hess, Eckhard H. ["Attitude and Pupil Size."] Scientific American, April 1965, 46-54.
 
 2. Miller, George A. ["The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information."] Psychological Review 63 (1956): 81-97
 
@@ -54,11 +54,11 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 1. Glanz, James, and Eric Lipton. ["The Height of Ambition,"] New York Times Magazine, September 8, 2002.
 
-2. Goldbarg, Lewis R. ["Simple Models or Simple Processes? Some Research on Clinical Judgements,"] \[paid access\] American Psychologist 23, no. 7 (1968): 483-96.
+2. Goldbarg, Lewis R. ["Simple Models or Simple Processes? Some Research on Clinical Judgements,"] American Psychologist 23, no. 7 (1968): 483-96.
 
 3. ------. ["Man versus Model of Man: A Rationale, Plus Some Evidence, for a Method of Improving on Clinical Inferences."] Psychological Bulletin 73, no. 6 (1970): 422-32.
 
-4. Hoffman, Paul J. ["The Paramorphic Representation of Clinical Judgements."] \[paid access\] Psychological Bulletin 57, no. 2 (1960): 116-31.
+4. Hoffman, Paul J. ["The Paramorphic Representation of Clinical Judgements."] Psychological Bulletin 57, no. 2 (1960): 116-31.
 
 5. Khaneman, Daniel, and Amos Tversky. ["Subjective Probability: A Judgements of Representativeness."] Coginitive Psychology 3 (1972): 430-54.
 
@@ -113,9 +113,9 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 ### Chapter 11: The rules of undoing
 
-1. Hobson, J. Allan, and Robert W. McCarley. ["The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process."] \[paid access\] American Journal of Psychiatry 134, no. 12 (1977): 1335-48.
+1. Hobson, J. Allan, and Robert W. McCarley. ["The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process."] American Journal of Psychiatry 134, no. 12 (1977): 1335-48.
 
-2. ------. ["The Neurobiological Origins of Psychoanalytic Dream Theory."] \[paid access\] American Journal of Psychiatry 134, no. 11 (1978): 1211-21.
+2. ------. ["The Neurobiological Origins of Psychoanalytic Dream Theory."] American Journal of Psychiatry 134, no. 11 (1978): 1211-21.
 
 3. Khaneman, Daniel. "The Psychology of Possible Worlds." Katz-Newcomb Lecture, April 1979.
 
@@ -128,7 +128,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 ### Chapter 12: This cloud of possibility
 
-1. Cohen, L. Jonathan. ["On the Psychology of Prediction: Whose Is the Fallacy?"] \[paid access\] Cognition 7, no. 4 (1979): 385-407.
+1. Cohen, L. Jonathan. ["On the Psychology of Prediction: Whose Is the Fallacy?"] Cognition 7, no. 4 (1979): 385-407.
 
 2. ------. ["Can Human Irrationality Be Experimentally Demonstrated?"] The Behavioral and Brain Sciences 4, no. 3 (1981): 317-31. Followed by thirty-nine pages of letters, including Persi Diaconis and David Freedman, "The Persistence of Cognitive Illusions: A Rejoinder to L. J. Cohen," 333-34, and a response by Cohen, 331-70.
 
@@ -146,7 +146,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 9. ------. ["Ecological Intelligence: An Adaptation for Frequencies."] In The Evolution of Mind, edited by Denise Dellarosa Summins and Colin Allen, 9-29. New York: Oxford University Press, 1998.
 
-10. Khaneman, Daniel, and Amos Tversky. ["Discussion: On the Interpretation of Intuitive Probability: A Reply to Jonathan Cohen."] \[paid access\] Cognition 7, no. 4 (1979): 409-11.
+10. Khaneman, Daniel, and Amos Tversky. ["Discussion: On the Interpretation of Intuitive Probability: A Reply to Jonathan Cohen."] Cognition 7, no. 4 (1979): 409-11.
 
 11. Tversky, Amos, and Daniel Khaneman. ["Extensional versus Intuitive Reasoning: The Conjunction Fallacy in Probabilistic Judgement."] Psychological Review 90, no. 4 (1983): 293-315.
 
@@ -186,11 +186,11 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 ["What Is Not What in Statistics."]: http://www.jstor.org/stable/2987957
 ["A Set of Independent Necessary and Sufficient Conditions for Simple Majority Decision."]: http://www.eecs.harvard.edu/cs286r/courses/fall11/papers/May52.pdf
 ["Basic Objects in Natural Categories."]: http://www.cns.nyu.edu/~msl/courses/2223/Readings/Rosch-CogPsych1976.pdf
-["The Intransitivity of Preferences."]: http://dx.doi.org/10.1037/h0026750
+["The Intransitivity of Preferences."]: https://sci-hub.ac/http://dx.doi.org/10.1037/h0026750
 ["Features of Similarity."]: http://www.ai.mit.edu/projects/dm/Tversky-features.pdf
 
 [//]: # (Chapter 4)
-["Attitude and Pupil Size."]: 10.1038/scientificamerican0465-46
+["Attitude and Pupil Size."]: https://sci-hub.ac/10.1038/scientificamerican0465-46
 ["The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information."]: http://www.psych.utoronto.ca/users/peterson/psy430s2001/Miller%20GA%20Magical%20Seven%20Psych%20Review%201955.pdf
 
 [//]: # (Chapter 5)
@@ -202,9 +202,9 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 
 [//]: # (Chapter 6)
 ["The Height of Ambition,"]: http://www.nytimes.com/2002/09/08/magazine/the-height-of-ambition.html
-["Simple Models or Simple Processes? Some Research on Clinical Judgements,"]: http://psycnet.apa.org/doi/10.1037/h0026206
+["Simple Models or Simple Processes? Some Research on Clinical Judgements,"]: https://sci-hub.ac/10.1037/h0026206
 ["Man versus Model of Man: A Rationale, Plus Some Evidence, for a Method of Improving on Clinical Inferences."]: http://projects.ori.org/lrg/PDFs_papers/Goldberg_1970_PB.pdf
-["The Paramorphic Representation of Clinical Judgements."]: http://psycnet.apa.org/doi/10.1037/h0047807
+["The Paramorphic Representation of Clinical Judgements."]: https://sci-hub.ac/10.1037/h0047807
 ["Subjective Probability: A Judgements of Representativeness."]: http://datacolada.org/wp-content/uploads/2014/08/Kahneman-Tversky-1972.pdf
 ["Causes and Effects of My Disturbing Little Book."]: https://meehl.dl.umn.edu/sites/g/files/pua1696/f/132causeseffects.pdf
 ["Availability: A Heuristic for Judging Frequency and Probability."]: https://msu.edu/~ema/803/Ch11-JDM/2/TverskyKahneman73.pdf
@@ -218,7 +218,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 [//]: # (Chapter 8)
 ["Memories of Colonoscopy: A Randomizied Trial,"]: https://www.amherst.edu/system/files/media/0678/colonoscopy%25202.pdf
 ["Discrepancy between Midical Decisions for Individual Patients and for Groups."]: https://galileo.seas.harvard.edu/images/material/2800/1140/Redelmeier_DiscrepancyBetweenMedicalDecisionsforIndividualPatientsandforGroups.pdf
-[Letter to the editor.]: http://www.nejm.org/doi/pdf/10.10566/NEJM199009273231320
+[Letter to the editor.]: http://www.nejm.org/doi/pdf/10.1056/NEJM199009273231320
 ["On the Belief That Arthritis Pain Is Related of the Weather."]: http://www.pnas.org/content/93/7/2895.full.pdf
 ["Judgement under Undercertainty: Heuristics and Biases."]: http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf
 
@@ -234,15 +234,15 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 ["Prospect Theory: An Analysis of Decision under Risk."]: https://www.princeton.edu/~kahneman/docs/Publications/prospect_theory.pdf
 
 [//]: # (Chapter 11)
-["The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process."]: http://dx.doi.org/10.1176/ajp.134.12.1335
-["The Neurobiological Origins of Psychoanalytic Dream Theory."]: http://dx.doi.org/10.1176/ajp.134.11.1211
+["The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process."]: https://sci-hub.ac/http://dx.doi.org/10.1176/ajp.134.12.1335
+["The Neurobiological Origins of Psychoanalytic Dream Theory."]: https://sci-hub.ac/http://dx.doi.org/10.1176/ajp.134.11.1211
 
 ["The Simulation Heuristic."]: https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780521284141
 ["The Disorient Express."]: http://ww.airspacemag.com/military-aviation/the-disorient-express-474780/
 ["The Framing of Decisions and the Psychology of Choice."]: http://psych.hanover.edu/classes/cognition/papers/tversky81.pdf
 
 [//]: # (Chapter 12)
-["On the Psychology of Prediction: Whose Is the Fallacy?"]: http://dx.doi.org/10.1016/0010-0277(79)90023-4
+["On the Psychology of Prediction: Whose Is the Fallacy?"]: https://sci-hub.ac/http://dx.doi.org/10.1016/0010-0277(79)90023-4
 ["Can Human Irrationality Be Experimentally Demonstrated?"]: http://www.thatmarcusfamily.org/philosophy/Course_Websites/Readings/Cohen%20-%20Human%20Irrationality.pdf
 [Knowledge and Language: Selected Essays of L. Jonathan Cohen,]: https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-94-017-2020-5
 ["How to Make Cognitive Illusions Disappear: Beyond 'Heuristics and Biases.'"]: http://library.mpib-berlin.mpg.de/ft/gg/gg_how_1991.pdf
@@ -251,7 +251,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 ["Why the Distinction between Single-Event Probabilities and Frequencies Is Important for Psychology (and Vice Versa)."]: https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-0471944430
 ["On Narrow Norms and Vague Heuristics: A Reply to Khaneman and Tversky."]: http://library.mpib-berlin.mpg.de/ft/gg/gg_on%20narrow_1996.pdf
 ["Ecological Intelligence: An Adaptation for Frequencies."]: http://library.mpib-berlin.mpg.de/ft/gg/GG_Ecological_1998.pdf
-["Discussion: On the Interpretation of Intuitive Probability: A Reply to Jonathan Cohen."]: http://dx.doi.org/10.1016/0010-0277(79)90024-6
+["Discussion: On the Interpretation of Intuitive Probability: A Reply to Jonathan Cohen."]: https://sci-hub.ac/http://dx.doi.org/10.1016/0010-0277(79)90024-6
 ["Extensional versus Intuitive Reasoning: The Conjunction Fallacy in Probabilistic Judgement."]: http://faculty.econ.ucdavis.edu/faculty/nehring/teaching/econ106/readings/Extensional%20Versus%20Intuitive.pdf
 ["Advances in Prospect Theory."]: http://psych.fullerton.edu/mbirnbaum/psych466/articles/tversky_khaneman_jru_92.pdf
 ["Gigerenzer's Normative Critique of Khaneman and Tversky."]: https://philpapers.org/archive/VRAGNC.pdf

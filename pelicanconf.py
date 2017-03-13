@@ -28,7 +28,7 @@ THEME_COLOR = '#FF8000'
 
 # Pelican settings
 RELATIVE_URLS = True
-SITEURL = 'http://mcginn.github.io'
+SITEURL = 'https://blog.alexandermcginn.com'
 TIMEZONE = 'Canada/Eastern'
 DAFAULT_DATE = 'fs'
 DEFAULT_DATE_FORMAT = '%B %d, %Y'

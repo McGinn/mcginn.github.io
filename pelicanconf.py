@@ -1,6 +1,6 @@
 # Theme-specific settings
 SITENAME = 'Alexander McGinn'
-DOMAIN = 'mcginn.github.io'
+DOMAIN = 'blog.alexandermcginn.com'
 BIO_TEXT = 'This is a bio'
 FOOTER_TEXT = 'Powered by <a href="http://getpelican.com">Pelican</a>, <a href="http://github.com/iKevinY/pneumatic">Pneumatic</a>, and <a href="http://pages.github.com">GitHub&nbsp;Pages</a>.'
 
@@ -28,7 +28,7 @@ THEME_COLOR = '#FF8000'
 
 # Pelican settings
 RELATIVE_URLS = True
-SITEURL = 'https://blog.alexandermcginn.com'
+SITEURL = 'http://blog.alexandermcginn.com'
 TIMEZONE = 'Canada/Eastern'
 DAFAULT_DATE = 'fs'
 DEFAULT_DATE_FORMAT = '%B %d, %Y'

@@ -1,7 +1,7 @@
 Title: About Me
 Slug: about
 
-The ![avatar](https://static1.squarespace.com/static/55ec5e5fe4b01667f17e11d3/56e336da2b8dde4bafb39afd/56e33cc186db4334800c12ab/1457732843790/SME-110_SCR.jpg?format=250w) for this site comes from the fantastic work of [Sarah Meyohas](http://www.sarahmeyohas.com/stock2016/)
+The Avatar ![avatar](https://static1.squarespace.com/static/55ec5e5fe4b01667f17e11d3/56e336da2b8dde4bafb39afd/56e33cc186db4334800c12ab/1457732843790/SME-110_SCR.jpg?format=300w) for this site comes from the fantastic work of [Sarah Meyohas](http://www.sarahmeyohas.com/stock2016/)
 
 Here are some additional links related to me:
 

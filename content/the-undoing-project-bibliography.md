@@ -2,15 +2,15 @@ Title: "The Undoing Project" bibliography
 Date: 2017-03-12
 
 
-Below is the bibliography for *[The Undoing Project]*. I have added links to materials and books wherever they are available.
+Below is the complete bibliography for *[The Undoing Project]*. I have added links to materials and books wherever they are available.
 
 
-### Introduction: The problem that never goes away
+### Introduction: The Problem That Never Goes Away
 
 1. Thaler, Richard H., and Cass R. Sunstein. ["Who's on First."] New Republic, August 31, 2003.
 
 
-### Chapter 1: Man boobs
+### Chapter 1: Man Boobs
 
 1. Rutenberg, Jim. ["The Republican Horse Race Is Over, and Journalism Lost."] New York Times, May 9, 2016.
 
@@ -19,7 +19,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 3. ------. ["Psychology: Does Our Heterogeneous Subject Matter Have Any Unity?"] Minnesota Psychologist 35 (1986): 3-9.
 
 
-### Chapter 3: The insider
+### Chapter 3: The Insider
 
 1. Edwards, Ward. ["The Theory of Decision Making."] Psychological Bulletin 51, no. 4 (1954): 380-417.
 
@@ -41,7 +41,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 2. Miller, George A. ["The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information."] Psychological Review 63 (1956): 81-97
 
 
-### Chapter 5: The collision
+### Chapter 5: The Collision
 
 1. Friedman, Milton. ["The Methodology of Positive Economics."] In Essays in Positive Economics, editied by Milton Friedman, 2-46. Chicago University Press, 1953.
 
@@ -50,7 +50,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 3. Tversky, Amos, and Daniel Khaneman. ["Belief in the Law of Small Numbers."] Psychological Bulletin 76, no. 2 (1971): 105-10.
 
 
-### Chapter 6: The mind's rules
+### Chapter 6: The Mind's Rules
 
 1. Glanz, James, and Eric Lipton. ["The Height of Ambition,"] New York Times Magazine, September 8, 2002.
 
@@ -67,7 +67,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 7. Tversky, Amos, and Daniel Khaneman. ["Availability: A Heuristic for Judging Frequency and Probability."] Cognitive Psychology 5, no. 2 (1973): 207-32.
 
 
-### Chapter 7: The rules of prediction
+### Chapter 7: The Rules of Prediction
 
 1. Fischhoff, Baruch. ["An Early History of Hindsight Research."] Social Cognition 25, no. 1 (2007): 10-13.
 
@@ -78,7 +78,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 4. Meehl, Paul E. ["Why I Do Not Attend Case Conferences."] In Psychodiagnosis: University of Minnesota Press, 1973.
 
 
-### Chapter 8: Going viral
+### Chapter 8: Going Viral
 
 1. Redelmeier, Donald A., Joel Katz, and Dnaiel Khaneman. ["Memories of Colonoscopy: A Randomizied Trial,"] Pain 104, nos. 1-2 (2003): 187-94
 
@@ -91,7 +91,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 5. Tversky, Amos, and Daniel Khaneman. ["Judgement under Undercertainty: Heuristics and Biases."] Science 185 (1974): 1124-31.
 
 
-### Chapter 9: Birth of the warrior psychologist
+### Chapter 9: Birth of the Warrior Psychologist
 
 1. Allais, Maurice. ["Le Comportement de l'homme rationnel devant le risque critique des postulate et axiomes de l'ecole américaine."] Econometrica 21, no. 4 (1953): 503-46. English summary: https://goo.gl/cUvOVb.
 
@@ -106,12 +106,12 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 6. Savage, Leonard J. [The Foundations of Statistics.] New York: Wiley, 1954.
 
 
-### Chapter 10: The isolation effect
+### Chapter 10: The Isolation Effect
 
 1. Khaneman, Dnaiel, and Amos Tversky. ["Prospect Theory: An Analysis of Decision under Risk."] Econometrica 47, no. 2 (1979): 263-91.
 
 
-### Chapter 11: The rules of undoing
+### Chapter 11: The Rules of Undoing
 
 1. Hobson, J. Allan, and Robert W. McCarley. ["The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process."] American Journal of Psychiatry 134, no. 12 (1977): 1335-48.
 
@@ -126,7 +126,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 6. Tversky, Amos, and Daniel Khaneman. ["The Framing of Decisions and the Psychology of Choice."] Science 21, no. 4481 (1981): 453-58
 
 
-### Chapter 12: This cloud of possibility
+### Chapter 12: This Cloud of Possibility
 
 1. Cohen, L. Jonathan. ["On the Psychology of Prediction: Whose Is the Fallacy?"] Cognition 7, no. 4 (1979): 385-407.
 
@@ -155,7 +155,7 @@ Below is the bibliography for *[The Undoing Project]*. I have added links to mat
 13. Vranas, Peter B. M. ["Gigerenzer's Normative Critique of Khaneman and Tversky."] Cognition 76 (2000): 179-93.
 
 
-### Coda: Bora-bora
+### Coda: Bora-Bora
 
 1. Redelmeier, Donald A., and Robert J. Tibshirani. ["Association between Cellular-Telephone Calls and Motor Vehicle Collisions."] New England Journal of Medicine 336 (1997): 453-58.
 

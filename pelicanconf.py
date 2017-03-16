@@ -78,7 +78,7 @@ TEMPLATE_PAGES = {page: page for page in templates}
 STATIC_PATHS = ['images', 'uploads', 'extra']
 IGNORE_FILES = ['.DS_Store', 'pneumatic.scss', 'pygments.css']
 
-extras = ['favicon.ico', 'robots.txt']
+extras = ['CNAME', 'favicon.ico', 'keybase.txt', 'robots.txt']
 EXTRA_PATH_METADATA = {'extra/%s' % file: {'path': file} for file in extras}
 
 DEFAULT_LANG = 'en'

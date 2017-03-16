@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/mcginn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alexandermcginn.com
+  * I am mcginn (https://keybase.io/mcginn) on keybase.
+  * I have a public key ASC7xWe5k3-YgfBKqobLxzREZfcwJIgLTvW-tGh3t4l3BAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120bbc567b9937f9881f04aaa86cbc7344465f73024880b4ef5beb46877b78977040a",
+            "host": "keybase.io",
+            "kid": "0120bbc567b9937f9881f04aaa86cbc7344465f73024880b4ef5beb46877b78977040a",
+            "uid": "36d4b61f016657769582ef0797450819",
+            "username": "mcginn"
+        },
+        "service": {
+            "hostname": "alexandermcginn.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1489632154,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1489632067,
+        "hash": "01bcb3b2781d26c4d2067dce65d90c3076d8e3a939e63cef309eb6378fb75990e221fef3ad0c3cb1e859257ec654a43994a97009044b44dc637d42130de2552b",
+        "seqno": 961711
+    },
+    "prev": "9611d428ffe18475f850a2ea762fb534d0edfa92f60693191f63d2b9630f177c",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgu8VnuZN/mIHwSqqGy8c0RGX3MCSIC071vrRod7eJdwQKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYmJjNTY3Yjk5MzdmOTg4MWYwNGFhYTg2Y2JjNzM0NDQ2NWY3MzAyNDg4MGI0ZWY1YmViNDY4NzdiNzg5NzcwNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmJjNTY3Yjk5MzdmOTg4MWYwNGFhYTg2Y2JjNzM0NDQ2NWY3MzAyNDg4MGI0ZWY1YmViNDY4NzdiNzg5NzcwNDBhIiwidWlkIjoiMzZkNGI2MWYwMTY2NTc3Njk1ODJlZjA3OTc0NTA4MTkiLCJ1c2VybmFtZSI6Im1jZ2lubiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYWxleGFuZGVybWNnaW5uLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjAifSwiY3RpbWUiOjE0ODk2MzIxNTQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4OTYzMjA2NywiaGFzaCI6IjAxYmNiM2IyNzgxZDI2YzRkMjA2N2RjZTY1ZDkwYzMwNzZkOGUzYTkzOWU2M2NlZjMwOWViNjM3OGZiNzU5OTBlMjIxZmVmM2FkMGMzY2IxZTg1OTI1N2VjNjU0YTQzOTk0YTk3MDA5MDQ0YjQ0ZGM2MzdkNDIxMzBkZTI1NTJiIiwic2Vxbm8iOjk2MTcxMX0sInByZXYiOiI5NjExZDQyOGZmZTE4NDc1Zjg1MGEyZWE3NjJmYjUzNGQwZWRmYTkyZjYwNjkzMTkxZjYzZDJiOTYzMGYxNzdjIiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RABR9dccCuw+yIDKnrEglMT47JNHb4SZIEJK7K/dj6QAKaYecHe9oqn0sfo1nzRydcMZvYOyX7y02tl3B7HwhcCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEs5O2IRlSkH4Qu/Cf657z45lUVW7H5P/Q+Za0IsxHe4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mcginn
+
+==================================================================

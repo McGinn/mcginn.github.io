@@ -21,6 +21,7 @@ GOOGLE_FONTS = [
 
 SOCIAL_ICONS = [
         ('mailto:alexander.mcginn@gmail.com', 'Email (alexander.mcginn@gmail.com)', 'fa-envelope'),
+        ('http://github.com/mcginn', 'GitHub', 'fa-github'),
         ('/atom.xml', 'Atom Feed', 'fa-rss'),
         ]
 

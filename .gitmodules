@@ -7,3 +7,6 @@
 [submodule "content/extra/resume"]
 	path = content/extra/resume
 	url = https://github.com/McGinn/Resume
+[submodule "content/extra/Alethia-Consulting"]
+	path = content/extra/Alethia-Consulting
+	url = https://github.com/McGinn/Alethia-Consulting

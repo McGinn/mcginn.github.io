@@ -71,7 +71,7 @@ Below is the complete bibliography for *[The Undoing Project]*. I have added lin
 
 1. Fischhoff, Baruch. ["An Early History of Hindsight Research."] Social Cognition 25, no. 1 (2007): 10-13.
 
-2. Howard, R. A., J. E. Matheson, and D. W. North. ["The Decision to Send Hurricanes."] Science 176 (1972): 1191-1202.
+2. Howard, R. A., J. E. Matheson, and D. W. North. ["The Decision to Seed Hurricanes."] Science 176 (1972): 1191-1202.
 
 3. Khaneman, Daniel, and Amos Tversky. ["On the Psychology of Predicition."] Psychological Review 80, no. 4 (1973): 237-51.
 
@@ -211,7 +211,7 @@ Below is the complete bibliography for *[The Undoing Project]*. I have added lin
 
 [//]: # (Chapter 7)
 ["An Early History of Hindsight Research."]: https://www.cmu.edu/dietrich/sds/docs/fischhoff/HindsightEarlyHistory.pdf
-["The Decision to Send Hurricanes."]: http://www.warnernorth.net.hurricanes.pdf
+["The Decision to Seed Hurricanes."]: https://sci-hub.ac/10.1126/science.176.4040.1191
 ["On the Psychology of Predicition."]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.3759&rep=rep1&type=pdf
 ["Why I Do Not Attend Case Conferences."]: http://meehl.umn.edu/sites/g/files/pua1696/f/099caseconferences.pdf
 

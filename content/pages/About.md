@@ -1,7 +1,7 @@
 Title: About Me
 Slug: about
 
-The avatar for this site comes from the fantastic work of [Sarah Meyohas]:
+The avatar for this site comes from the excellent work of [Sarah Meyohas]:
 
 ![avatar][avatar]
     

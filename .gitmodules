@@ -1,9 +1,6 @@
 [submodule "pneumatic"]
 	path = pneumatic
 	url = https://github.com/iKevinY/pneumatic
-[submodule "plugins"]
-	path = plugins
-	url = https://github.com/getpelican/pelican-plugins
 [submodule "content/extra/resume"]
 	path = content/extra/resume
 	url = https://github.com/McGinn/Resume

@@ -1,4 +1,5 @@
-Title: "The Information by James Gleick - a review: June 20, 2019" Date: 2019-06-20
+Title: "The Information by James Gleick - a review: June 20, 2019" 
+Date: 2019-06-20
 
 ### A brief review
 
